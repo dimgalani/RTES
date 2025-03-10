@@ -1,2 +1,2 @@
 # RTES
-Real Time Embedded Systems
+This repository contains the C client file, the report and the data collected from the finnhub.io for the "Real Time Embedded Systems" course offered in the 8th semester of the Electrical and Computer Engineering Department at Aristotle University of Thessaloniki. The client is responsible to record transaction data for stocks and cryptocurrencies from Finnhub, calculate candlestick data and moving averages every minute, and store the data in real time. The program was executed continuously for at least 48 hours on a Raspberry Pi Zero 2 W.
